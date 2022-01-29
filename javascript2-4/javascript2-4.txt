@@ -1,0 +1,5 @@
+課題提出します。
+
+document.　getElementById("area1").value += ta1 +"逆フラッシュｎ" ;
+入力方法が出来なかったです。
+理解しています。
